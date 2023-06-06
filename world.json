@@ -1,0 +1,12 @@
+{
+  "title": "La leyenda de Teren",
+  "id": "campania-de-piratillas-sin-nombre",
+  "system": "dnd5e",
+  "coreVersion": "10.291",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "systemVersion": "2.1.5",
+  "background": "Background%20campania%20piratillas.jpg"
+}
